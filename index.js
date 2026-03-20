@@ -409,9 +409,6 @@ function createBot() {
       // Start all modules
       initializeModules(bot, mcData, defaultMove);
 
-      // Setup enhanced Leave/Rejoin logic
-      setupLeaveRejoin(bot, createBot);
-
       setTimeout(() => {
         if (bot && botState.connected) {
           bot.chat('/gamerule sendCommandFeedback false');
