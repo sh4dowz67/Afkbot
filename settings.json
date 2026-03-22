@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bobaamc.falixsrv.me",
-    "port": 25490,
+    "ip": "shadowzMC.aternos.me",
+    "port": 37051,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "rizzgod67"
     },
     "anti-afk": {
       "enabled": false,
