@@ -8,7 +8,7 @@
   "server": {
     "ip": "shadowxxMC.aternos.me",
     "port": 46689,
-    "version": "1.21.1"
+    "version": "1.8.8"
   },
   "position": {
     "enabled": true,
